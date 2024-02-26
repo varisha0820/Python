@@ -1,6 +1,14 @@
 # Python
 Programming in Python
-Write python code to import “data.csv” file and perform following task:
-a)	Select random sample from the file
-b)	Compare the population mean and sample mean
-c)	And display message that the selected sample is representing population or not.
+Write python program to print first letter of your name 
+a) Example: Peter
+               *      *
+               *             *
+               *              *
+               *      *
+               *
+               *
+               *
+b) Print your name by using for loop
+
+c) check the user name is palindrome or not
